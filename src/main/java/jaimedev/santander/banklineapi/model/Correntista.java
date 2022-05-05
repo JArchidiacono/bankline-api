@@ -45,4 +45,7 @@ public class Correntista {
     public void setNome(String nome) {
         this.nome = nome;
     }
+
+    public void setConta(Conta conta) {
+    }
 }
